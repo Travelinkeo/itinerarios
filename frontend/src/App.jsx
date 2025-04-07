@@ -47,6 +47,9 @@ export default function App() {
     }
   };
 
+//
+
+
   // Función para calcular el valor del boleto
   const calcularMonto = () => {
     const cant1 = parseFloat(cantidad1);
